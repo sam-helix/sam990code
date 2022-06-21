@@ -1,4 +1,5 @@
 ### Hi there 👋
+My Name is shubham kumar and I am a WEB DEVELOPER and I know HTML ,CSS ,javascript ,bootstrap Node.js & express.js and I'm also familiar with GIt and Version control.
 
 <!--
 **sam990code/sam990code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
